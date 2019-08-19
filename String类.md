@@ -10,7 +10,7 @@
 
 String类实现了三个接口，其继承关系如下：
 
-[String类](\img\String\String类.png)
+[String类](//img//String//String类.png)
 
 该类API详见[java.lang.String](https://docs.oracle.com/javase/8/docs/api/)
 
